@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T06_TreeView_DataGridView_LenhSQL", "T06_TreeView_DataGridView_LenhSQL\T06_TreeView_DataGridView_LenhSQL.csproj", "{09085AF0-3906-4113-9336-5481ED29F3C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09085AF0-3906-4113-9336-5481ED29F3C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09085AF0-3906-4113-9336-5481ED29F3C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09085AF0-3906-4113-9336-5481ED29F3C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09085AF0-3906-4113-9336-5481ED29F3C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E52B5C5-5815-47D9-8174-600305DCCBD3}
+	EndGlobalSection
+EndGlobal
